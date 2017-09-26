@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="meal_types">
+        <item>早餐</item>
+        <item>午餐</item>
+        <item>晚餐</item>
+    </string-array>
+    <string-array name="units">
+        <item>两</item>
+        <item>斤</item>
+        <item>升</item>
+        <item>瓶</item>
+        <item>个</item>
+        <item>块</item>
+    </string-array>
+</resources>

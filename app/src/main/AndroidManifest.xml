@@ -10,8 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"
+            android:name=".ui.activity.HostActivity"
+            android:label="@string/title_activity_host"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,6 +19,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ui.activity.AddShopItemActivity" />
+        <activity android:name=".ui.activity.AddFridgeItemActivity" />
+        <activity android:name=".ui.activity.AddMealActivity"></activity>
     </application>
 
 </manifest>

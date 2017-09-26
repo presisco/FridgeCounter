@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">冰箱助手</string>
 
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-
-    <string name="action_settings">Settings</string>
+    <string name="title_activity_host"></string>
+    <string name="title_shop_list">购物清单</string>
+    <string name="title_fridge_list">冰箱状况</string>
+    <string name="title_meal_list">三餐规划</string>
 </resources>
